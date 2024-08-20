@@ -1,5 +1,5 @@
 let grd=20;
-// let c;
+
 
 switch(true){
     case (grd>=90):
